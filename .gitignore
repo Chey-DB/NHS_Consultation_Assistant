@@ -1,0 +1,17 @@
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Test output
+*.pytest_cache/
+
