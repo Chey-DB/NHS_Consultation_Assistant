@@ -15,3 +15,5 @@ __pycache__/
 # Test output
 *.pytest_cache/
 
+# Google Sheets credentials
+credentials.json
